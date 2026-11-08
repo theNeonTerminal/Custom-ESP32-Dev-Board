@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 9.03h | 3 |
+| Week 5 | Tier 1 | 9h | 3 |
 
 ## Contents
 
@@ -65,7 +65,7 @@ Now I will start with teh PCB routing part
 
 ### 2026-11-07: Took a little longer than expeted, SMD routing is harder than THT routing, for you cant start a via on 1 layer and end it on another, not my fault
 
-**3.03h**
+**3h**
 
 Took a little longer than expeted, SMD routing is harder than THT routing, for you cant start a via on 1 layer and end it on another, not my fault
 
