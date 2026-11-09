@@ -615,7 +615,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Custom ESP32 Board/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
